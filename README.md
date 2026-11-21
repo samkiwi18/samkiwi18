@@ -1,11 +1,11 @@
-## Hi, I'm Samuele 👋
+## Hi, I'm Samuele
 
 Applied Physics master's student at the University of Catania, working at the intersection of **medical physics**, **Monte Carlo simulation** and **deep learning**.
 
 - 🔬 Interested in radiopharmaceutical dosimetry, radiotherapy and medical imaging
 - 🧠 Building deep learning models for 3D medical images (PET, CT, SPECT)
 - ⚛️ Simulating radiation transport with Geant4, GATE and EGSnrc
-- 📫 Reach me through [GitHub](https://github.com/samcaggia)
+- 📫 Reach me through [GitHub](https://github.com/samkiwi18)
 
 ### 🛠️ Skills
 
