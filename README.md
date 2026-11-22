@@ -5,7 +5,7 @@ Applied Physics master's student at the University of Catania, working at the in
 - 🔬 Interested in radiopharmaceutical dosimetry, radiotherapy and medical imaging
 - 🧠 Building deep learning models for 3D medical images (PET, CT, SPECT)
 - ⚛️ Simulating radiation transport with Geant4, GATE and EGSnrc
-- 📫 Reach me through [GitHub](https://github.com/samkiwi18) or [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cggsml02h18c92z7@studium.unict.it)
+- 📫 Reach me through [GitHub](https://github.com/samkiwi18) or [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:caggia734@gmail.com)
 
 ### 🛠️ Skills
 
@@ -42,7 +42,7 @@ Applied Physics master's student at the University of Catania, working at the in
 
 ### 📌 Featured project
 
-**[lu177-psma-predictive-dosimetry](https://github.com/samcaggia/lu177-psma-predictive-dosimetry)**
+**[lu177-psma-predictive-dosimetry](https://github.com/samkiwi18/lu177-psma-predictive-dosimetry)**
 Predictive dosimetry for [¹⁷⁷Lu]Lu-PSMA therapy: a virtual cohort built from public PSMA PET/CT, a PBPK model,
 GATE Monte Carlo dose and a SwinUNETR network, personalised with a single post-therapy SPECT.
 `Python` `PyTorch` `MONAI` `GATE` `Geant4`
