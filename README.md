@@ -5,7 +5,7 @@ Applied Physics master's student at the University of Catania, working at the in
 - 🔬 Interested in radiopharmaceutical dosimetry, radiotherapy and medical imaging
 - 🧠 Building deep learning models for 3D medical images (PET, CT, SPECT)
 - ⚛️ Simulating radiation transport with Geant4, GATE and EGSnrc
-- 📫 Reach me through [GitHub](https://github.com/samkiwi18) or [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:caggia734@gmail.com)
+- 📫 Reach me through [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/samkiwi18) or [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:caggia734@gmail.com)
 
 ### 🛠️ Skills
 
