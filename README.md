@@ -46,3 +46,8 @@ Applied Physics master's student at the University of Catania, working at the in
 Predictive dosimetry for [¹⁷⁷Lu]Lu-PSMA therapy: a virtual cohort built from public PSMA PET/CT, a PBPK model,
 GATE Monte Carlo dose and a SwinUNETR network, personalised with a single post-therapy SPECT.
 `Python` `PyTorch` `MONAI` `GATE` `Geant4`
+
+**[adaptive-radiotherapy-dir](https://github.com/samkiwi18/adaptive-radiotherapy-dir)**
+Deformable CT/CBCT registration for adaptive radiotherapy: a diffeomorphic SwinUNETR network refined per patient by
+test-time optimization, with dose recalculation in matRad and gamma/DVH validation on a public 4D-Lung case.
+`Python` `PyTorch` `MONAI` `matRad` `DICOM-RT`
